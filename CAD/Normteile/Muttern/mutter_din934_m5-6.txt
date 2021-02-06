@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 934 - d M5 - 6";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Sechskantmutter DIN 934 M5-6";"";
+"TraceParts.PartNumber";"10-11062001-160766";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN 934";"";
+"TraceParts.InstanceId";"10-11062001-16076613K1EO0FX8UUEM4ENC08WMQUV";"";
+"TraceParts.PartTitle";"6-Kant Mutter, Stil 1 - Güteklasses A und B";"";
+"TraceParts.PartVersion";"1.3.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-11062001-160766";"";

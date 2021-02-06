@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN125-1 - A d1 5.3 - 140 HV";"";
+"MATERIAL";"Stahl";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Scheibe DIN 125-1 - A 5.3 - 140 HV";"";
+"TraceParts.PartNumber";"10-11062001-191023";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN 125-1";"";
+"TraceParts.InstanceId";"10-11062001-191023E1YGL7PR3B69O7GT7LRN0BVGW";"";
+"TraceParts.PartTitle";"Unterlegscheibe, ohne Fase";"";
+"NOTE";"Kategorie: 140 HV; Güteklasse: A";"";
+"TraceParts.PartVersion";"1.6.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-11062001-191023";"";
+"TraceParts.PartStandardAcronym";"DIN";"";

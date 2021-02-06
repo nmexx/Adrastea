@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 4762 - d M3 x l 6";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"32-01072013-079671";"";
+"STANDARD";"DIN EN ISO 4762";"";
+"DESIGN";"Zylinderschrauben mit Innensechskant, DIN EN ISO 4762 - M3 x 6";"";
+"TraceParts.InstanceId";"32-01072013-07967121I6YRTPOIOLZIABC83LRAPRD";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Zylinderschrauben mit Innensechskant";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:32-01072013-079671";"";

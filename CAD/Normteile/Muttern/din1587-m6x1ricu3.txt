@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Kategorie: CU3";"";
+"REFERENCE";"DIN 1587 - d M6 x p 1 - Ri - CU3";"";
+"MATERIAL";"Nicht-Eisen Metall";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-11062001-190717";"";
+"STANDARD";"DIN 1587";"";
+"DESIGN";"Gewölbte Hutmutter DIN 1587 - M6 x 1 - Ri - CU3";"";
+"TraceParts.InstanceId";"10-11062001-190717CIDRLCF4EWYM14OPBOPNWQ1ZP";"";
+"TraceParts.PartLanguage";"de";"";
+"TraceParts.PartTitle";"Hutmutter";"";
+"OMNICLASS23";"23.13.23.11.13.21";"";
+"TraceParts.PartVersion";"1.4.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:10-11062001-190717";"";
+"TraceParts.PartStandardAcronym";"DIN";"";

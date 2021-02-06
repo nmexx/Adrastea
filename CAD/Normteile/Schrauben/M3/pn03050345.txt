@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"PN03050345";"";
+"MATERIAL";"8.8";"";
+"SUPPLIER";"NONNENMANN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Senkschrauben mit Innensechskant";"";
+"TraceParts.PartNumber";"30-11092012-105429";"";
+"TraceParts.PartLanguage";"de";"";
+"STANDARD";"DIN7991, ISO10642";"";
+"TraceParts.InstanceId";"30-11092012-105429CFYIAWNQPJF2JPN6CJAEY43I0";"";
+"TraceParts.PartTitle";"DIN7991 8.8 Senkschrauben mit Innensechskant WG0802";"";
+"TraceParts.PartVersion";"1.3.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NONNENMANN:30-11092012-105429";"";
